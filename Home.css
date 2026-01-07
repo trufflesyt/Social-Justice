@@ -6,7 +6,6 @@
 body {
     text-align: center;
     font-family: serif;
-    background-color: rgb(255, 255, 255);
 }
 
 .highlight {
@@ -33,4 +32,9 @@ a:hover {
 
 a:active {
     color: brown;
+}
+
+#paragraph {
+    max-width: 1000px;
+    margin:0 auto;
 }

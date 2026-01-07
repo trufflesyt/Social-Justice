@@ -9,3 +9,23 @@
     font: 12px;
     font-family: 'Times New Roman', Times, serif;
 }
+
+#Navbar {
+    font-family:  "Stencil", "Impact", "Arial Black", sans-serif;
+}
+
+a:link {
+    color: darkolivegreen;
+}
+
+a:visited {
+    color: darkolivegreen;
+}
+
+a:hover {
+    color: olive;
+}
+
+a:active {
+    color: brown;
+}
